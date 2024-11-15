@@ -343,6 +343,7 @@
       <id>java17</id>
       <activation>
         <jdk>17</jdk>
+        <activeByDefault>true</activeByDefault>
       </activation>
       <build>
         <plugins>
